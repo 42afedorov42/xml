@@ -421,7 +421,7 @@
 </price>
 <floor>7</floor>
 <floors-total>26</floors-total>
-<building-name>WE&amp;I Ramada by Vertical</building-name>
+<building-name>WE&I; Ramada by Vertical</building-name>
 <built-year>2022</built-year>
 <ready-quarter>4</ready-quarter>
 <building-name>Орджоникидзе, 44</building-name>
@@ -6635,7 +6635,7 @@
 </price>
 <floor>6</floor>
 <floors-total>26</floors-total>
-<building-name>WE&amp; I Ramada by Vertical</building-name>
+<building-name>WE&I; Ramada by Vertical</building-name>
 <built-year>2022</built-year>
 <ready-quarter>4</ready-quarter>
 <building-name>Орджоникидзе, 44</building-name>
@@ -21780,7 +21780,7 @@
 </price>
 <floor>7</floor>
 <floors-total>26</floors-total>
-<building-name>Coliving You&amp;Co</building-name>
+<building-name>Coliving You&Co</building-name>
 <built-year>2023</built-year>
 <ready-quarter>1</ready-quarter>
 <building-name>Орджоникидзе, 44</building-name>
@@ -34686,7 +34686,7 @@
 </price>
 <floor>5</floor>
 <floors-total>26</floors-total>
-<building-name>Coliving You&amp;Co;</building-name>
+<building-name>Coliving You&Co</building-name>
 <built-year>2023</built-year>
 <ready-quarter>1</ready-quarter>
 <building-name>Орджоникидзе, 44</building-name>
@@ -35888,7 +35888,7 @@
 </price>
 <floor>6</floor>
 <floors-total>26</floors-total>
-<building-name>Coliving You&amp; Co</building-name>
+<building-name>Coliving You&Co</building-name>
 <built-year>2023</built-year>
 <ready-quarter>1</ready-quarter>
 <building-name>Орджоникидзе, 44</building-name>
@@ -85658,7 +85658,6 @@
   <currency>RUR</currency>
 </price>
 <floor>7</floor>
-<floors-total></floors-total>
 <building-name>Рябиновый сад</building-name>
 <building-name>Евроинвест девелопмент</building-name>
 <location>
@@ -92013,7 +92012,6 @@
   <currency>RUR</currency>
 </price>
 <floor>5</floor>
-<floors-total></floors-total>
 <building-name>Уютный</building-name>
 <building-name>Новоселье</building-name>
 <location>
